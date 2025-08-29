@@ -1,0 +1,1039 @@
+--- Início da Simulação ---
+
+--- Tempo: 0ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 1ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 2ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 3ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 4ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 5ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 6ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P1' 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 7ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 8ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 9ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 10ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 11ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 12ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P4' 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 13ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 14ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 15ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 16ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 17ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 18ms ---
+CPU: P4
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 19ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P3' 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 20ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 21ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 22ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 23ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 24ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 25ms ---
+CPU: P3
+Fila 0 (RR Q=6): 'P5' 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 26ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P5' 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 27ms ---
+CPU: P5
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 28ms ---
+CPU: P5
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 29ms ---
+CPU: P5
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 30ms ---
+CPU: P5
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 31ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 32ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 33ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 34ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 35ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 36ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 37ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 'P1' 
+
+--- Tempo: 38ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 'P1' 
+
+--- Tempo: 39ms ---
+CPU: P2
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 
+
+--- Tempo: 40ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 
+
+--- Tempo: 41ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 
+
+--- Tempo: 42ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 
+
+--- Tempo: 43ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 
+
+--- Tempo: 44ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 
+
+--- Tempo: 45ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 'P5' 
+
+--- Tempo: 46ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P2' 'P5' 
+
+--- Tempo: 47ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 48ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 49ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 50ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 51ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 52ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P5' 'P4' 
+
+--- Tempo: 53ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 'P1' 
+
+--- Tempo: 54ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 'P1' 
+
+--- Tempo: 55ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 'P1' 
+
+--- Tempo: 56ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 'P1' 
+
+--- Tempo: 57ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 'P1' 
+
+--- Tempo: 58ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P3' 'P2' 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 'P1' 'P5' 
+
+--- Tempo: 59ms ---
+CPU: P3
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P5' 
+
+--- Tempo: 60ms ---
+CPU: P3
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P5' 
+
+--- Tempo: 61ms ---
+CPU: P3
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P5' 
+
+--- Tempo: 62ms ---
+CPU: P3
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P1' 'P5' 
+
+--- Tempo: 63ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P1' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 64ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 65ms ---
+CPU: P1
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P5' 
+
+--- Tempo: 66ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 67ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 68ms ---
+CPU: P1
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 69ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 'P5' 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 70ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 71ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 72ms ---
+CPU: P5
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 73ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P2' 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 74ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 75ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 76ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 77ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 78ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 79ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 80ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 81ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 82ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 83ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 84ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 85ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 86ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 87ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 88ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 89ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 90ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 91ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 92ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 93ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 94ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 95ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 96ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 97ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 98ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 99ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 100ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 101ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 102ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 103ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 104ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 105ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 'P4' 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 106ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 107ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 108ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 109ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 110ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 111ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 112ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 
+
+--- Tempo: 113ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 114ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 115ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 116ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 117ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 118ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 119ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P2' 'P4' 
+
+--- Tempo: 120ms ---
+CPU: P2
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 121ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 122ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 123ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 124ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 125ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 126ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 127ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 128ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 129ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 130ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 131ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 132ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 133ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 134ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 135ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 136ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 137ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 138ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 139ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 140ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 141ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 142ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 143ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 'P4' 
+
+--- Tempo: 144ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 145ms ---
+CPU: P4
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Tempo: 146ms ---
+CPU: Ociosa
+Fila 0 (RR Q=6): 
+Fila 1 (RR Q=12): 
+Fila 2 (FCFS): 
+Bloqueados: 
+
+--- Fim da Simulação ---
+Tempo total de execução: 146ms
+Processos finalizados:
+- P3
+- P1
+- P5
+- P2
+- P4
